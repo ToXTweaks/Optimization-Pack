@@ -1,0 +1,1 @@
+PowerShell -ExecutionPolicy Unrestricted -Command "$Devices = Get-PnpDevice | Where-Object { $_.Status -eq 'Unknown' }; foreach ($Device in $Devices) { pnputil.exe /remove-device $Device.InstanceId }"
