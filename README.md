@@ -11,9 +11,6 @@
   <a href="https://github.com/ToXTweaks/Optimization-Pack/stargazers">
     <img src="https://img.shields.io/github/stars/ToXTweaks/Optimization-Pack?style=for-the-badge">
   </a>
-  <a href="https://github.com/ToXTweaks/Optimization-Pack/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/ToXTweaks/Optimization-Pack?style=for-the-badge">
-  </a>
 </p>
 
 ---
