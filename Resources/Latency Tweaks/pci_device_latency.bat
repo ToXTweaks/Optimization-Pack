@@ -30,5 +30,3 @@ for /f %%a in ('wmic PATH Win32_PnPEntity GET DeviceID ^| findstr /l "PCI\VEN_"'
 )
 
 echo.
-echo Done. Restart Windows to fully apply changes.
-pause
