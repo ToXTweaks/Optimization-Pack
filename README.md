@@ -3,6 +3,7 @@
 <p align="center">
   <strong>A free Windows optimization pack designed to improve responsiveness, reduce latency, and enhance gaming performance.</strong>
 </p>
+
 ---
 
 ## 📖 About
